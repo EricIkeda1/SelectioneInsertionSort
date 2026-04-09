@@ -1,4 +1,4 @@
-# Parte 1 - Bubble Sort: Estrutura de Dados
+# Parte 1 -  Selection e Insertion Sort: Estrutura de Dados
 
 ## Atividade Estruturas de Dados Unisenai
 Integrantes:
